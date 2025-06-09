@@ -7,7 +7,7 @@ Feedback is welcome.
 
 Bienvenue sur le wiki de l’infrastructure de développement maison. Utilisez ce menu pour accéder rapidement aux différentes étapes et guides.
 
-- [Introduction](./Introduction)
+- [Introduction](./Introduction.md)
 - [Prérequis matériels et logiciels](./Prerequis)
 - [Installation de Proxmox VE](./Installation-Proxmox)
 - [Configuration initiale de Proxmox](./Configuration-Proxmox)
