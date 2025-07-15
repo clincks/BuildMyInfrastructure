@@ -388,31 +388,6 @@
         <description>/firewall_rules_edit.php made changes</description>
       </created>
     </rule>
-    <rule uuid="6e6c62b4-2409-45c5-be38-841d27931396">
-      <type>pass</type>
-      <interface>opt4</interface>
-      <ipprotocol>inet</ipprotocol>
-      <statetype>keep state</statetype>
-      <descr>Allow all</descr>
-      <direction>in</direction>
-      <quick>1</quick>
-      <source>
-        <any>1</any>
-      </source>
-      <destination>
-        <any>1</any>
-      </destination>
-      <updated>
-        <username>root@192.168.100.200</username>
-        <time>1752603283.0352</time>
-        <description>/firewall_rules_edit.php made changes</description>
-      </updated>
-      <created>
-        <username>root@192.168.100.200</username>
-        <time>1752603283.0352</time>
-        <description>/firewall_rules_edit.php made changes</description>
-      </created>
-    </rule>
     <rule uuid="e3198d9f-0660-433a-a331-b137e6c9206a">
       <type>pass</type>
       <interface>opt4</interface>
@@ -527,8 +502,8 @@
   </ntpd>
   <revision>
     <username>root@192.168.100.200</username>
-    <description>/interfaces.php made changes</description>
-    <time>1752606432.7481</time>
+    <description>/firewall_rules.php made changes</description>
+    <time>1752606828.7694</time>
   </revision>
   <dnsmasq version="1.0.7">
     <enable>0</enable>
